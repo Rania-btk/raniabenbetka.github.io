@@ -1,10 +1,10 @@
-# Étudiante en Master 1 Data Science en santé
+# Étudiante en première année de Master Data Science en santé
 
 # Rania BENBETKA
 
 ## À propos de moi
 
-Passionnée par la science des données et son application dans le domaine de la santé. Actuellement en première année de Master en Data Science en santé, je combine mes connaissances en biostatistiques et en biotechnologie pour analyser et comprendre des problématiques complexes liées à la santé publique.
+Passionnée par l’analyse de données et leur application dans le domaine médical. Actuellement à la recherche d’un stage de mars 2025 à août 2025, je souhaite intégrer une équipe dynamique où je pourrai contribuer à des projets innovants tout en développant mes compétences en data science.
 
 ## Formations
 
@@ -23,10 +23,8 @@ Passionnée par la science des données et son application dans le domaine de la
 - **Régression Linéaire Multiple** : Analyse de l'impact des facteurs de risque sur l'athérosclérose.
 - **Revue bibliométrique sur la neurodiversité** :Explorer l'évolution des publications scientifiques sur l'autisme et la neurodiversité.
 
-## Compétences
 
-- **Langages** :
-  ## Compétences
+## Compétences
 
 - **Langages** :
   - <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="30" height="30"> R
@@ -34,6 +32,7 @@ Passionnée par la science des données et son application dans le domaine de la
   - <img src="https://www.freeiconspng.com/uploads/sql-file-icon-0.png" alt="SQL" width="30" height="30"> SQL
     
 - **Outils** : RStudio, VSCode, Git, Jupyter Notebook
+  
 - **Méthodes statistiques** : Régression linéaire,Regression logistique, Analyse en Composantes Principales (ACP), Modèles de survie.
 
 ## Contact
