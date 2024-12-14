@@ -4,7 +4,7 @@
 
 ## À propos de moi
 
-Je suis Rania BENBETKA, passionnée par la science des données et son application dans le domaine de la santé. Actuellement en première année de Master en Data Science en santé, je combine mes connaissances en biostatistiques et en biotechnologie pour analyser et comprendre des problématiques complexes liées à la santé publique.
+Passionnée par la science des données et son application dans le domaine de la santé. Actuellement en première année de Master en Data Science en santé, je combine mes connaissances en biostatistiques et en biotechnologie pour analyser et comprendre des problématiques complexes liées à la santé publique.
 
 ## Formations
 
@@ -25,7 +25,11 @@ Je suis Rania BENBETKA, passionnée par la science des données et son applicati
 
 ## Compétences
 
-- **Langages** : R, Python, SQL
+- **Langages** :
+  - ![R](https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg) R
+  - ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
+  - ![SQL](https://upload.wikimedia.org/wikipedia/commons/6/68/SQL_server_logo_2012.png) SQL
+    
 - **Outils** : RStudio, VSCode, Git, Jupyter Notebook
 - **Méthodes statistiques** : Régression linéaire,Regression logistique, Analyse en Composantes Principales (ACP), Modèles de survie.
 
