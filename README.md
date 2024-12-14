@@ -14,19 +14,20 @@ Je suis Rania BENBETKA, passionnée par la science des données et son applicati
 
 ## Stages
 
-- **Stage de fin d’études** : Identification des facteurs de risque des teignes du cuir chevelu
+- **Stage de fin d’études en biostatistique** : Identification des facteurs de risque des teignes du cuir chevelu
 - **Stage de découverte** : Étude de la production d’éthanol à partir de déchets lignocellulosiques
 
 ## Projets Universitaires
 
-- **Analyse en Composantes Principales (ACP)** : Application d'une ACP sur le jeu de données `mtcars` en utilisant R pour analyser la corrélation entre différentes variables.
-- **Régression Linéaire Multiple** : Analyse de l'impact des facteurs de risque sur l'athérosclérose à partir de données provenant du fichier `Intima_Media.csv` (variables : sexe, âge, taille, poids, tabac, paqan, sport, alcool).
-- **Revue bibliométrique sur la neurodiversité** :Explorer l'évolution des publications scientifiques sur l'autisme et la neurodiversit
+- **Analyse en Composantes Principales (ACP)** : Application d'une ACP sur le jeu de données `mtcars` en utilisant R.
+- **Régression Linéaire Multiple** : Analyse de l'impact des facteurs de risque sur l'athérosclérose.
+- **Revue bibliométrique sur la neurodiversité** :Explorer l'évolution des publications scientifiques sur l'autisme et la neurodiversité.
+
 ## Compétences
 
 - **Langages** : R, Python, SQL
 - **Outils** : RStudio, VSCode, Git, Jupyter Notebook
-- **Méthodes statistiques** : Régression linéaire,Regression logistique, Analyse en Composantes Principales (ACP), Modèles de survie
+- **Méthodes statistiques** : Régression linéaire,Regression logistique, Analyse en Composantes Principales (ACP), Modèles de survie.
 
 ## Contact
 
