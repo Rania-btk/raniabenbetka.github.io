@@ -28,9 +28,9 @@ Passionnée par la science des données et son application dans le domaine de la
 ## Compétences
 
 - **Langages** :
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="40" height="40"> R
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"> Python
-  - <img src="https://cdn-icons-png.flaticon.com/512/603/603201.png" alt="SQL" width="40" height="40"> SQL
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="30" height="30"> R
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30" height="30"> Python
+  - <img src="https://cdn-icons-png.flaticon.com/512/732/732260.png" alt="SQL" width="30" height="30"> SQL
     
 - **Outils** : RStudio, VSCode, Git, Jupyter Notebook
 - **Méthodes statistiques** : Régression linéaire,Regression logistique, Analyse en Composantes Principales (ACP), Modèles de survie.
