@@ -14,16 +14,14 @@ Passionnée par la science des données et son application dans le domaine de la
 
 ## Stages
 
-- **Stage de fin d’études en biostatistique** : Identification des facteurs de risque des teignes du cuir chevelu
-- **Stage de découverte** : Étude de la production d’éthanol à partir de déchets lignocellulosiques
+- **Stage de fin d’études en biostatistique** : Identification des facteurs de risque des teignes du cuir chevelu.
+- **Stage de découverte** : Étude de la production d’éthanol à partir de déchets lignocellulosiques.
 
 ## Projets Universitaires
 
 - **Analyse en Composantes Principales (ACP)** : Application d'une ACP sur le jeu de données `mtcars` en utilisant R.
 - **Régression Linéaire Multiple** : Analyse de l'impact des facteurs de risque sur l'athérosclérose.
 - **Revue bibliométrique sur la neurodiversité** :Explorer l'évolution des publications scientifiques sur l'autisme et la neurodiversité.
-
-## Compétences
 
 ## Compétences
 
