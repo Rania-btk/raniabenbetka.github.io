@@ -22,6 +22,7 @@ Passionnée par l’analyse de données et leur application dans le domaine méd
 - **Analyse en Composantes Principales (ACP)** : Application d'une ACP sur le jeu de données `mtcars` en utilisant R.
 - **Régression Linéaire Multiple** : Analyse de l'impact des facteurs de risque sur l'athérosclérose.
 - **Revue bibliométrique sur la neurodiversité** :Explorer l'évolution des publications scientifiques sur l'autisme et la neurodiversité.
+- **Gestion de données avec SQL** : Modélisation d'une base de données pour un stockage optimisé des informations sur les journaux scientifiques.
 
 
 ## Compétences
@@ -36,10 +37,10 @@ Passionnée par l’analyse de données et leur application dans le domaine méd
 - **Méthodes statistiques** : Régression linéaire,Regression logistique, Analyse en Composantes Principales (ACP), Modèles de survie.
 
 - **Langues** :
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="Anglais" width="30" height="20"> Anglais  
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="Français" width="30" height="20"> Français  
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Algeria.svg" alt="Arabe" width="30" height="20"> Arabe  
-
+  - **Anglais** : Compétence professionnelle complète  
+  - **Français** : Courant  
+  - **Arabe** : Bilingue ou natale
+    
 ## Contact
 
 - Email : [rania.benbetka.etu@univ-lille.fr](mailto:ton.email@exemple.com)
