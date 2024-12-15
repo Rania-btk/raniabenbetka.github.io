@@ -35,6 +35,11 @@ Passionnée par l’analyse de données et leur application dans le domaine méd
   
 - **Méthodes statistiques** : Régression linéaire,Regression logistique, Analyse en Composantes Principales (ACP), Modèles de survie.
 
+- **Langues** :
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="Anglais" width="30" height="20"> Anglais  
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="Français" width="30" height="20"> Français  
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Algeria.svg" alt="Arabe" width="30" height="20"> Arabe  
+
 ## Contact
 
 - Email : [rania.benbetka.etu@univ-lille.fr](mailto:ton.email@exemple.com)
