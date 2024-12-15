@@ -40,6 +40,7 @@ Passionnée par l’analyse de données et leur application dans le domaine méd
   - **Anglais** : Compétence professionnelle complète  
   - **Français** : Courant  
   - **Arabe** : Bilingue ou natale
+
     
 ## Contact
 
