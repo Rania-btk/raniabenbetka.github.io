@@ -8,9 +8,9 @@ Passionnée par l’analyse de données et leur application dans le domaine méd
 
 ## Formations
 
-- **Première année de Master en Data Science en santé**
-- **Master 2 en Biostatistiques**
-- **Licence en Biotechnologie et santé**
+- **Première année de Master en Data Science en santé**(2024 - 2025)
+- **Master 2 en Biostatistiques**(2022 - 2024)
+- **Licence en Biotechnologie et santé**(2019 - 2022)
 
 ## Stages
 
