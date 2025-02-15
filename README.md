@@ -1,4 +1,3 @@
-# Étudiante en première année de Master Data Science en santé
 
 # Rania BENBETKA
 
